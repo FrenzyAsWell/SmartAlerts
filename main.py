@@ -50,7 +50,7 @@ class CScriptWork:
     range_key_second = -1
 
     def check_user(self):
-        str_check = input("Enter (+) to continue: ")
+        str_check = input(f"{Style.BRIGHT}Enter (+) to continue:{Style.RESET_ALL} ")
         if str_check != '+':
             object_PrintingWork.clean_console()
             exit()
