@@ -16,7 +16,6 @@ Python Version: <b>3.11.4</b>
 # Installing 
 
 <details> <summary> <b>GNU/Linux</b> </summary>
-<em>GNU/Linux</em>
 
 Here is a example of how to run script in <b>Bash</b>:
 
@@ -33,7 +32,6 @@ python3 main.py                                                       # Start up
 </details>
 
 <details> <summary> <b>Windows</b> </summary>
-<em>Windows</em>
 
 In <b>Windows</b> you must do some "preparatory"
 
