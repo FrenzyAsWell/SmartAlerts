@@ -4,9 +4,9 @@
 
 ![](https://i.imgur.com/YL7EYYA.png)
 
-- [X] Allows to specify range of parsing audios.
-- [X] Allows to choose way of data saving
-- [X] CrossPlatforming support
+- [X] <b>Allows to specify range of parsing audios</b>
+- [X] <b>Allows to choose way of data saving</b>
+- [X] <b>CrossPlatforming support</b>
 
 # Development
 
@@ -16,7 +16,7 @@ Python Version: <b>3.11.4</b>
 # Installing 
 
 <details> <summary> <b>GNU/Linux</b> </summary>
-### <em>GNU/Linux</em>
+<em>GNU/Linux</em>
 
 Here is a example of how to run script in <b>Bash</b>:
 
@@ -33,7 +33,7 @@ python3 main.py                                                       # Start up
 </details>
 
 <details> <summary> <b>Windows</b> </summary>
-### <em>Windows</em>
+<em>Windows</em>
 
 In <b>Windows</b> you must do some "preparatory"
 
